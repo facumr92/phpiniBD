@@ -10,7 +10,7 @@ html {
     font-size: 80%; 
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     min-height: 100%;
-    background: radial-gradient(#FFF, rgb(26, 138, 194));
+        background-color: antiquewhite;
     background-repeat: no-repeat;
     background-size: cover;
     scroll-snap-type: y mandatory;
